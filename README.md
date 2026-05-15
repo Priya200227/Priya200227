@@ -2,26 +2,19 @@
 
 ## Data Analyst | SQL • Python • Power BI • Statistical Analysis
 
-I build end-to-end analytics systems focused on operational intelligence, customer behavior analysis, revenue optimization, and business performance monitoring.
+I build end-to-end analytical systems that answer specific business questions — from subscription churn risk and revenue leakage to seller fulfillment delays and operational bottlenecks.
 
-My projects combine:
-- SQL data engineering
-- Python automation
-- Statistical analysis
-- Machine learning
-- Interactive Power BI dashboards
-
-to solve real-world business problems using data-driven decision-making.
+My work combines SQL engineering, Python automation, statistical reasoning, and predictive modeling to produce quantified business recommendations — not just dashboards.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
 Python • SQL
 
 ### Libraries
-Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn
+Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn • Statsmodels
 
 ### Visualization & BI
 Power BI • Excel
@@ -30,144 +23,142 @@ Power BI • Excel
 MySQL
 
 ### Analytics Areas
-Operational Analytics • Customer Intelligence • Revenue Optimization • Statistical Analysis • KPI Monitoring • Risk Modeling
+Operational Analytics • Subscription Intelligence • Revenue Risk Modeling • Statistical Hypothesis Testing • Predictive Modeling • KPI Monitoring
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 ---
 
-# 1. Seller Fulfillment Delay & Revenue Impact Intelligence
+## 1. Subscription Revenue Leakage & Churn Intelligence System
 
-### SQL • Python • Statistical Analysis • Power BI
+### SQL • Python • Machine Learning • Statistical Analysis • Power BI
 
-Built an operational intelligence system to identify seller fulfillment risks, delivery inefficiencies, customer satisfaction deterioration, and revenue exposure patterns using Brazilian e-commerce logistics data.
+Churn prediction and revenue risk system built on KKBox music subscription data. Uses SQL behavioral feature engineering, logistic regression churn scoring, statistical hypothesis testing, and an automated monitoring pipeline to identify high-risk user segments and quantify monthly recurring revenue exposure.
 
 ### Project Highlights
-- Processed and analyzed 90K+ operational order records
-- Built automated MySQL-to-Python analytical pipelines
-- Developed seller operational risk scoring system
-- Performed statistical testing and regression modeling
-- Designed executive-level Power BI operational dashboards
+- Engineered behavioral features in MySQL using CTEs and window functions across 4 relational tables
+- Built logistic regression churn scoring model with class imbalance handling (class_weight='balanced')
+- Performed hypothesis testing to validate auto-renew retention impact and revenue segment differences
+- Estimated revenue at risk by churn probability tier — quantified MRR exposure per segment
+- Automated churn monitoring pipeline: scores users, segments risk tiers, exports dated CSV reports
+- Designed 5-page Power BI dashboard covering churn intelligence, cohort decay, and revenue exposure
 
 ### Key Insights
-- Operational delays were concentrated among a small subset of sellers
-- Late delivery variance significantly reduced customer review scores
-- Platform revenue remained heavily dependent on operationally stable sellers
-- Seller processing inefficiency showed measurable impact on fulfillment variance
-- Operational escalation monitoring enabled targeted seller intervention
+- Churn probability increased sharply after inactivity thresholds in the first 30 days
+- Auto-renew disabled users showed statistically significant higher churn rates
+- High-risk segments (churn probability > 0.7) contributed disproportionate recurring revenue exposure
+- Discount-acquired customers demonstrated weaker long-term retention stability
+- Revenue leakage concentrated heavily among users failing renewal twice or more
 
 ### Tools Used
-MySQL • Python • Pandas • Statistical Analysis • Scikit-learn • Power BI
+MySQL • Python • Pandas • Scikit-learn • SciPy • Statsmodels • Power BI
 
 ---
 
-# 2. Subscription Revenue Leakage & Churn Intelligence System
+## 2. Seller Fulfillment Delay & Revenue Impact Intelligence
 
-### SQL • Python • Machine Learning • Power BI
+### SQL • Python • Statistical Analysis • Regression Modeling • Power BI
 
-Developed a churn intelligence and revenue-at-risk monitoring system using behavioral segmentation, predictive modeling, and customer retention analytics.
+Operational intelligence system analyzing 90K+ Brazilian e-commerce orders to identify which seller fulfillment behaviors drive delivery delays and quantify associated revenue exposure. Built on MySQL feature engineering, statistical hypothesis testing, log-transformed regression modeling, and an automated seller risk scoring pipeline.
 
 ### Project Highlights
-- Built customer churn risk segmentation framework
-- Performed cohort and retention analysis
-- Developed machine learning churn prediction models
-- Automated revenue leakage monitoring workflows
-- Created interactive customer intelligence dashboards
+- Processed 90K+ order records across 8 relational tables using complex SQL joins, CTEs, and window functions
+- Engineered Fulfillment Risk Index — composite seller scoring across delay rate, prep time, review score, and cancellation proxy
+- Performed Kruskal-Wallis and Mann-Whitney U hypothesis tests to validate delay impact on customer satisfaction
+- Built log-transformed regression model to predict delivery delay — justified by right-skewed delay distribution
+- Quantified revenue exposure: estimated quarterly revenue at risk from bottom seller cohort
+- Automated seller monitoring pipeline: recalculates risk scores, flags SLA breaches, exports operational reports
+- Designed 6-page Power BI dashboard covering seller intelligence, geographic bottlenecks, and revenue risk
 
 ### Key Insights
-- Churn probability increased significantly after inactivity thresholds
-- Discount-acquired customers showed weaker retention stability
-- High-risk customer segments contributed disproportionate revenue leakage
-- Customer retention stabilized after early lifecycle stages
-- Revenue exposure was heavily concentrated among churn-prone cohorts
+- Delivery delays were concentrated among a small subset of high-volume, low-efficiency sellers
+- Late delivery variance showed statistically significant negative impact on customer review scores
+- Seller processing inefficiency was the strongest predictor of fulfillment delay
+- Platform revenue remained heavily dependent on operationally stable top-quartile sellers
+- Bottom 10% seller cohort associated with measurable quarterly revenue risk
 
 ### Tools Used
-SQL • Python • Machine Learning • Power BI • Pandas • Scikit-learn
+MySQL • Python • Pandas • SciPy • Statsmodels • Scikit-learn • Power BI
 
 ---
 
-# 3. Revenue Decline & Return Optimization Analysis
+## 3. Revenue Decline & Return Optimization Analysis
 
 ### SQL • Python • Power BI
 
-Built an end-to-end revenue optimization analytics system to identify return-risk products, revenue concentration patterns, customer retention behavior, and operational inefficiencies.
+Revenue operations analytics system identifying return-risk products, revenue concentration patterns, and customer retention drivers using e-commerce transaction data. Includes Python automation pipeline for scheduled business performance monitoring.
 
 ### Project Highlights
-- Analyzed e-commerce transaction and return behavior
-- Built customer segmentation and profitability analysis
-- Identified revenue leakage drivers
-- Designed executive KPI dashboards
-- Automated business performance analysis workflows
+- Analyzed transaction and return behavior across product categories and customer segments
+- Built customer segmentation and profitability analysis using RFM-style behavioral logic
+- Identified revenue leakage drivers through return pattern and margin analysis
+- Automated business performance monitoring workflow with scheduled Python reporting
+- Designed executive KPI dashboards for revenue health tracking
 
 ### Key Insights
 - Top-performing products generated disproportionate revenue concentration
-- Return-heavy categories significantly reduced profitability margins
-- Revenue deterioration strongly linked to repeat customer decline
-- Operational inefficiencies increased return exposure
-- Customer retention stability directly impacted revenue sustainability
+- Return-heavy categories significantly reduced net profitability margins
+- Revenue deterioration strongly linked to repeat customer decline patterns
+- Operational inefficiencies amplified return exposure across high-volume categories
+- Customer retention stability directly drove revenue sustainability
 
 ### Tools Used
-SQL • Python • Power BI • Pandas • MySQL
+MySQL • Python • Pandas • Power BI
 
 ---
 
-# 4. Nike Inventory Stock Optimization Analysis
+## 4. Nike Inventory Stock Optimization Analysis
 
 ### Excel • Power Query • Pivot Tables • KPI Dashboards
 
-Performed inventory and supply chain analysis using Nike retail inventory data to identify stock inefficiencies, overstock risk, and product movement trends.
+Inventory and supply chain analysis using Nike retail data to identify stock inefficiencies, overstock risk, and product movement trends across categories.
 
 ### Project Highlights
-- Built Excel KPI dashboards for inventory tracking
-- Performed stock optimization analysis
-- Analyzed product demand and inventory turnover
+- Built Excel KPI dashboards for inventory performance tracking
+- Performed stock optimization and demand pattern analysis
+- Analyzed product-level inventory turnover across categories
 - Automated reporting workflows using Power Query
 
 ### Key Insights
-- Overstock concentration reduced inventory efficiency
-- Fast-moving categories generated majority sales contribution
-- Inventory turnover varied significantly across product categories
-- Stock imbalance affected operational efficiency
+- Overstock concentration in low-turnover categories reduced overall inventory efficiency
+- Fast-moving categories generated majority of sales contribution
+- Inventory turnover varied significantly across product lines
+- Stock imbalance between categories created operational inefficiency
 
 ### Tools Used
 Excel • Power Query • Pivot Tables • KPI Dashboards
 
 ---
 
-# Core Strengths
+## Core Strengths
 
-- SQL Data Analysis
-- Python Automation
-- Statistical Analysis
-- Machine Learning Fundamentals
+- SQL Analysis & Feature Engineering (CTEs, Window Functions, Multi-table Joins)
+- Python Automation & Monitoring Pipelines
+- Statistical Analysis & Hypothesis Testing (Mann-Whitney U, Kruskal-Wallis, Chi-Square)
+- Predictive Modeling & Risk Scoring (Logistic Regression, Log-transformed Regression)
+- Operational & Subscription Analytics
+- Revenue Impact Quantification
 - Power BI Dashboard Development
-- KPI & Business Performance Monitoring
-- Customer Retention Analytics
-- Operational Intelligence
-- Revenue Optimization
-- Data Storytelling
+- Data Storytelling & Business Communication
 
 ---
 
-# Current Focus
+## Current Focus
 
-Currently building stronger expertise in:
-- Advanced analytics engineering
-- Predictive modeling
-- Business intelligence systems
-- Operational analytics automation
-- End-to-end data workflows
+Currently deepening expertise in:
+- SQL query optimization and analytical data modeling
+- End-to-end Python analytical pipelines for operational monitoring
+- Statistical modeling applied to subscription and logistics domains
+- Building analyst-grade projects with quantified business outcomes
 
 ---
 
-# Connect With Me
+## Connect With Me
 
 ### LinkedIn
-www.linkedin.com/in/jyothi-priya-554279247
+[www.linkedin.com/in/jyothi-priya-554279247](https://www.linkedin.com/in/jyothi-priya-554279247)
 
 ### GitHub
-github.com/Priya200227
-
----
+[github.com/Priya200227](https://github.com/Priya200227)
