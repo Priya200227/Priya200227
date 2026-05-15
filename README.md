@@ -14,7 +14,7 @@ My work combines SQL engineering, Python automation, statistical reasoning, and 
 Python • SQL
 
 ### Libraries
-Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn • Statsmodels
+Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn
 
 ### Visualization & BI
 Power BI • Excel
@@ -66,11 +66,11 @@ Operational intelligence system analyzing 90K+ Brazilian e-commerce orders to id
 ### Project Highlights
 - Processed 90K+ order records across 8 relational tables using complex SQL joins, CTEs, and window functions
 - Engineered Fulfillment Risk Index — composite seller scoring across delay rate, prep time, review score, and cancellation proxy
-- Performed Kruskal-Wallis and Mann-Whitney U hypothesis tests to validate delay impact on customer satisfaction
+- Performed independent t-test analysis to validate the impact of delivery delays on customer review scores
 - Built log-transformed regression model to predict delivery delay — justified by right-skewed delay distribution
 - Quantified revenue exposure: estimated quarterly revenue at risk from bottom seller cohort
 - Automated seller monitoring pipeline: recalculates risk scores, flags SLA breaches, exports operational reports
-- Designed 6-page Power BI dashboard covering seller intelligence, geographic bottlenecks, and revenue risk
+- Designed 3-page Power BI dashboard covering seller intelligence, geographic bottlenecks, and revenue risk
 
 ### Key Insights
 - Delivery delays were concentrated among a small subset of high-volume, low-efficiency sellers
