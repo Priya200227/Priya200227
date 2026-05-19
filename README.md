@@ -109,29 +109,6 @@ MySQL • Python • Pandas • Power BI
 
 ---
 
-## 4. Nike Inventory Stock Optimization Analysis
-
-### Excel • Power Query • Pivot Tables • KPI Dashboards
-
-Inventory and supply chain analysis using Nike retail data to identify stock inefficiencies, overstock risk, and product movement trends across categories.
-
-### Project Highlights
-- Built Excel KPI dashboards for inventory performance tracking
-- Performed stock optimization and demand pattern analysis
-- Analyzed product-level inventory turnover across categories
-- Automated reporting workflows using Power Query
-
-### Key Insights
-- Overstock concentration in low-turnover categories reduced overall inventory efficiency
-- Fast-moving categories generated majority of sales contribution
-- Inventory turnover varied significantly across product lines
-- Stock imbalance between categories created operational inefficiency
-
-### Tools Used
-Excel • Power Query • Pivot Tables • KPI Dashboards
-
----
-
 ## Core Strengths
 
 - SQL Analysis & Feature Engineering (CTEs, Window Functions, Multi-table Joins)
