@@ -1,6 +1,6 @@
 # Hi, I'm Jyothi Priya 👋
 
-## Data Analyst | SQL • Python • Power BI • Statistical Analysis
+## Data Analyst | SQL • BigQuery • Python • Power BI • Tableau • Statistical Analysis
 
 I build end-to-end analytical systems that answer specific business questions — from subscription churn risk and revenue leakage to seller fulfillment delays and operational bottlenecks.
 
@@ -17,10 +17,10 @@ Python • SQL
 Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn
 
 ### Visualization & BI
-Power BI • Excel
+Power BI • Excel • Tableau
 
 ### Database
-MySQL
+MySQL • Google BigQuery
 
 ### Analytics Areas
 Operational Analytics • Subscription Intelligence • Revenue Risk Modeling • Statistical Hypothesis Testing • Predictive Modeling • KPI Monitoring
@@ -84,28 +84,30 @@ MySQL • Python • Pandas • SciPy • Statsmodels • Scikit-learn • Power
 
 ---
 
-## 3. Revenue Decline & Return Optimization Analysis
+## 3. Revenue Decline & Return Risk Analytics Dashboard
 
-### SQL • Python • Power BI
+### BigQuery • Python Automation • Tableau
 
-Revenue operations analytics system identifying return-risk products, revenue concentration patterns, and customer retention drivers using e-commerce transaction data. Includes Python automation pipeline for scheduled business performance monitoring.
+End-to-end revenue operations analytics system built to identify return-risk products, revenue concentration patterns, customer retention behavior, and operational profitability risks using automated cloud analytics workflows.
 
 ### Project Highlights
-- Analyzed transaction and return behavior across product categories and customer segments
-- Built customer segmentation and profitability analysis using RFM-style behavioral logic
-- Identified revenue leakage drivers through return pattern and margin analysis
-- Automated business performance monitoring workflow with scheduled Python reporting
-- Designed executive KPI dashboards for revenue health tracking
+- Built analytical views in BigQuery for revenue trends, return-risk analysis, retention analysis, and margin-risk evaluation
+- Developed automated Python pipeline for BigQuery query execution, CSV exports, and analytical reporting
+- Created category-level margin risk matrix to identify operationally risky product segments
+- Performed customer retention and revenue concentration analysis to evaluate dependency on loyal customers
+- Built executive-style Tableau dashboard for revenue monitoring, operational risk analysis, and customer intelligence
+- Automated complete workflow: BigQuery → Python → CSV Outputs → Tableau
 
 ### Key Insights
-- Top-performing products generated disproportionate revenue concentration
-- Return-heavy categories significantly reduced net profitability margins
-- Revenue deterioration strongly linked to repeat customer decline patterns
-- Operational inefficiencies amplified return exposure across high-volume categories
-- Customer retention stability directly drove revenue sustainability
+- Revenue declined significantly after peak growth periods
+- Loyal customers contributed ~78% of total revenue concentration
+- Footwear category showed the highest operational return-risk exposure
+- High-return products reduced profitability margins substantially
+- Revenue dependency on top customers created concentration risk
+- Return-heavy categories amplified operational inefficiencies
 
 ### Tools Used
-MySQL • Python • Pandas • Power BI
+BigQuery • Python • Pandas • Matplotlib • Tableau • Google Cloud SDK
 
 ---
 
@@ -113,7 +115,7 @@ MySQL • Python • Pandas • Power BI
 
 - SQL Analysis & Feature Engineering (CTEs, Window Functions, Multi-table Joins)
 - Python Automation & Monitoring Pipelines
-- Statistical Analysis & Hypothesis Testing (Mann-Whitney U, Kruskal-Wallis, Chi-Square)
+- Statistical Analysis & Hypothesis Testing (Mann-Whitney U, Chi-Square)
 - Predictive Modeling & Risk Scoring (Logistic Regression, Log-transformed Regression)
 - Operational & Subscription Analytics
 - Revenue Impact Quantification
