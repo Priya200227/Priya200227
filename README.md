@@ -119,7 +119,7 @@ BigQuery • Python • Pandas • Matplotlib • Tableau • Google Cloud SDK
 - Predictive Modeling & Risk Scoring (Logistic Regression, Log-transformed Regression)
 - Operational & Subscription Analytics
 - Revenue Impact Quantification
-- Power BI Dashboard Development
+- Power BI & Tableau Dashboard Development
 - Data Storytelling & Business Communication
 
 ---
