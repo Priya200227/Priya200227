@@ -119,12 +119,10 @@ VS Code
 
 ---
 
-# 🚀 Featured Projects
-## 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
+# Featured Projects
+## Subscription Revenue Leakage & Churn Intelligence System
 ### Overview
 Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
-
-### Workflow
 
 ```text
 MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
@@ -151,21 +149,16 @@ MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboa
 `MySQL` `Python` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Power BI`
 
 ### Project Repository
-
-👉 Replace this link with your actual repository link
-
 ```md
 https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-system
 ```
 
 ---
 
-## 2️⃣ Seller Fulfillment Delay & Revenue Impact Intelligence
+## Seller Fulfillment Delay & Revenue Impact Intelligence
 ### Overview
 
 Operational analytics system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and operational revenue exposure.
-
-### Workflow
 
 ```text
 MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
@@ -176,7 +169,7 @@ MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
 - Processed 90K+ records across multiple relational tables
 - Built Fulfillment Risk Index scoring system
 - Performed t-test analysis on delivery delays vs review scores
-- Built regression model for delay prediction
+- Built a regression model for delay prediction
 - Automated operational monitoring workflows
 - Developed operational intelligence dashboards
 
@@ -192,21 +185,16 @@ MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
 `MySQL` `Python` `Pandas` `SciPy` `Statsmodels` `Scikit-learn` `Power BI`
 
 ### Project Repository
-
-👉 Replace this link with your actual repository link
-
 ```md
 https://github.com/Priya200227/seller-fulfillment-delay-revenue-impact-intelligence
 ```
 
 ---
 
-## 3️⃣ Revenue Decline & Return Risk Analytics Dashboard
+## Revenue Decline & Return Risk Analytics Dashboard
 ### Overview
 
 Revenue analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, retention behavior, and operational profitability risks.
-
-### Workflow
 
 ```text
 BigQuery → Python Automation → CSV Exports → Tableau Dashboard
@@ -233,16 +221,13 @@ BigQuery → Python Automation → CSV Exports → Tableau Dashboard
 `BigQuery` `Python` `Pandas` `Matplotlib` `Tableau` `Google Cloud SDK`
 
 ### Project Repository
-
-👉 Replace this link with your actual repository link
-
 ```md
 https://github.com/Priya200227/revenue-decline-return-optimization-analysis
 ```
 
 ---
 
-## 🧠 Core Strengths
+## Core Strengths
 
 - SQL Feature Engineering
 - Python Automation Pipelines
@@ -251,19 +236,7 @@ https://github.com/Priya200227/revenue-decline-return-optimization-analysis
 - Predictive Modeling & Risk Scoring
 - KPI Reporting & Dashboard Development
 - Business-Focused Data Storytelling
-
----
-
-## 📌 Current Focus
-
-Currently deepening expertise in:
-
-- SQL optimization & analytical data modeling
-- Python automation for analytical workflows
-- Statistical modeling for business analytics
-- Revenue & operational intelligence systems
-- Executive dashboard storytelling
-
+  
 ---
 
 ## 🌐 Connect With Me
