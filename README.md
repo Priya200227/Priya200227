@@ -33,8 +33,6 @@ BigQuery
 </tr>
 </table>
 
----
-
 ### Libraries & Analytics
 
 <table>
@@ -66,8 +64,6 @@ Statsmodels
 </tr>
 </table>
 
----
-
 ### BI & Visualization
 
 <table>
@@ -88,8 +84,6 @@ Excel
 </td>
 </tr>
 </table>
-
----
 
 ### Tools & Workflow
 
