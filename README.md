@@ -1,74 +1,58 @@
 <h1 align="center">Hi, I'm Jyothi Priya 👋</h1>
 
-<h3 align="center">
-Data Analyst | SQL • Python • Power BI • Tableau | Revenue, Customer & Operational Analytics
-</h3>
+<p align="center">
+<b>Data Analyst | SQL • Python • Power BI • Tableau</b><br>
+Revenue • Customer • Operational Analytics
+</p>
 
 <p align="center">
-I build end-to-end analytics systems focused on churn intelligence, revenue analytics, operational monitoring, reporting automation, and business intelligence.
+I build business-focused analytics solutions using SQL, Python, statistical analysis, automation, and BI dashboards to solve revenue, customer, and operational problems.
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
-## Languages & Databases
+### Languages & Databases
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square"/>
+</p>
+
+### Libraries & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-374151?style=flat-square"/>
+</p>
+
+### BI & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## Libraries & Analytics
+## 📊 Focus Areas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statsmodels-1F2937?style=for-the-badge"/>
-</p>
-
----
-
-## BI & Visualization
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
----
-
-# 📊 Analytics Focus Areas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Revenue_Analytics-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operational_Analytics-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-1E40AF?style=for-the-badge"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priya200227&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya200227&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
 </p>
 
 ---
@@ -77,23 +61,19 @@ I build end-to-end analytics systems focused on churn intelligence, revenue anal
 
 ---
 
-# 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
+## 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
 
-## 📌 Overview
+### Overview
 
-End-to-end churn prediction and revenue-risk intelligence system built using SQL, Python, machine learning, statistical analysis, and Power BI.
+Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
 
----
-
-## ⚙️ Workflow
+### Workflow
 
 ```text
 MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
 ```
 
----
-
-## 🔍 Key Highlights
+### Key Highlights
 
 - Engineered behavioral features using CTEs and window functions
 - Built logistic regression churn prediction model
@@ -102,90 +82,82 @@ MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboa
 - Automated churn monitoring and CSV reporting pipeline
 - Developed executive-level Power BI dashboards
 
----
-
-## 📊 Key Insights
+### Key Insights
 
 - Churn probability increased sharply after inactivity periods
 - Auto-renew disabled users showed significantly higher churn risk
 - High-risk users contributed disproportionate revenue exposure
 - Discount-acquired customers showed weaker long-term retention
 
----
-
-## 🛠️ Tools Used
+### Tools Used
 
 `MySQL` `Python` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Power BI`
 
-### 🔗 Project Link
+### Project Repository
 
-[View Project](YOUR_CHURN_PROJECT_LINK)
+👉 Replace this link with your actual repository link
 
----
-
-# 2️⃣ Seller Fulfillment Delay & Revenue Impact Intelligence
-
-## 📌 Overview
-
-Operational intelligence system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and quantify operational revenue risk.
+```md
+https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+```
 
 ---
 
-## ⚙️ Workflow
+## 2️⃣ Seller Fulfillment Delay & Revenue Impact Intelligence
+
+### Overview
+
+Operational analytics system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and operational revenue exposure.
+
+### Workflow
 
 ```text
 MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
 ```
 
----
-
-## 🔍 Key Highlights
+### Key Highlights
 
 - Processed 90K+ records across multiple relational tables
 - Built Fulfillment Risk Index scoring system
 - Performed t-test analysis on delivery delays vs review scores
 - Built regression model for delay prediction
 - Automated operational monitoring workflows
-- Created executive operational dashboards
+- Developed operational intelligence dashboards
 
----
-
-## 📊 Key Insights
+### Key Insights
 
 - Delivery delays concentrated among low-efficiency seller cohorts
 - Seller inefficiency strongly predicted delay risk
-- Delays significantly impacted customer satisfaction
-- Operational instability increased quarterly revenue exposure
+- Delivery delays negatively impacted customer satisfaction
+- Operational instability increased revenue exposure
 
----
-
-## 🛠️ Tools Used
+### Tools Used
 
 `MySQL` `Python` `Pandas` `SciPy` `Statsmodels` `Scikit-learn` `Power BI`
 
-### 🔗 Project Link
+### Project Repository
 
-[View Project](YOUR_SELLER_PROJECT_LINK)
+👉 Replace this link with your actual repository link
 
----
-
-# 3️⃣ Revenue Decline & Return Risk Analytics Dashboard
-
-## 📌 Overview
-
-Revenue operations analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, customer retention, and profitability risks.
+```md
+https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+```
 
 ---
 
-## ⚙️ Workflow
+## 3️⃣ Revenue Decline & Return Risk Analytics Dashboard
+
+### Overview
+
+Revenue analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, retention behavior, and operational profitability risks.
+
+### Workflow
 
 ```text
 BigQuery → Python Automation → CSV Exports → Tableau Dashboard
 ```
 
----
-
-## 🔍 Key Highlights
+### Key Highlights
 
 - Built analytical views in BigQuery for operational monitoring
 - Developed automated reporting workflows using Python
@@ -194,69 +166,63 @@ BigQuery → Python Automation → CSV Exports → Tableau Dashboard
 - Built executive-style Tableau dashboards
 - Automated end-to-end analytics workflow
 
----
-
-## 📊 Key Insights
+### Key Insights
 
 - Revenue declined significantly after peak growth periods
 - Loyal customers contributed ~78% revenue concentration
 - Return-heavy categories reduced profitability margins
 - Operational inefficiencies amplified revenue decline
 
----
-
-## 🛠️ Tools Used
+### Tools Used
 
 `BigQuery` `Python` `Pandas` `Matplotlib` `Tableau` `Google Cloud SDK`
 
-### 🔗 Project Link
+### Project Repository
 
-[View Project](YOUR_REVENUE_PROJECT_LINK)
+👉 Replace this link with your actual repository link
 
----
-
-# 🧠 Core Strengths
-
-✅ SQL Feature Engineering  
-✅ Python Automation Pipelines  
-✅ Statistical Analysis & Hypothesis Testing  
-✅ Revenue & Operational Analytics  
-✅ Predictive Modeling & Risk Scoring  
-✅ KPI Reporting & Dashboard Development  
-✅ Data Storytelling & Business Communication  
+```md
+https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+```
 
 ---
 
-# 📌 Current Focus
+## 🧠 Core Strengths
+
+- SQL Feature Engineering
+- Python Automation Pipelines
+- Statistical Analysis & Hypothesis Testing
+- Revenue & Operational Analytics
+- Predictive Modeling & Risk Scoring
+- KPI Reporting & Dashboard Development
+- Business-Focused Data Storytelling
+
+---
+
+## 📌 Current Focus
 
 Currently deepening expertise in:
 
 - SQL optimization & analytical data modeling
-- Python analytical workflow automation
+- Python automation for analytical workflows
 - Statistical modeling for business analytics
-- End-to-end operational monitoring systems
-- Business-focused dashboard storytelling
+- Revenue & operational intelligence systems
+- Executive dashboard storytelling
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/jyothi-priya-554279247">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Priya200227">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://priya200227.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
 </p>
