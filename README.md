@@ -89,3 +89,174 @@ End-to-end churn prediction and revenue-risk intelligence system built using SQL
 
 ```text
 MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
+```
+
+---
+
+## 🔍 Key Highlights
+
+- Engineered behavioral features using CTEs and window functions
+- Built logistic regression churn prediction model
+- Performed statistical hypothesis testing for retention analysis
+- Quantified monthly recurring revenue exposure
+- Automated churn monitoring and CSV reporting pipeline
+- Developed executive-level Power BI dashboards
+
+---
+
+## 📊 Key Insights
+
+- Churn probability increased sharply after inactivity periods
+- Auto-renew disabled users showed significantly higher churn risk
+- High-risk users contributed disproportionate revenue exposure
+- Discount-acquired customers showed weaker long-term retention
+
+---
+
+## 🛠️ Tools Used
+
+`MySQL` `Python` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Power BI`
+
+### 🔗 Project Link
+
+[View Project](YOUR_CHURN_PROJECT_LINK)
+
+---
+
+# 2️⃣ Seller Fulfillment Delay & Revenue Impact Intelligence
+
+## 📌 Overview
+
+Operational intelligence system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and quantify operational revenue risk.
+
+---
+
+## ⚙️ Workflow
+
+```text
+MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
+```
+
+---
+
+## 🔍 Key Highlights
+
+- Processed 90K+ records across multiple relational tables
+- Built Fulfillment Risk Index scoring system
+- Performed t-test analysis on delivery delays vs review scores
+- Built regression model for delay prediction
+- Automated operational monitoring workflows
+- Created executive operational dashboards
+
+---
+
+## 📊 Key Insights
+
+- Delivery delays concentrated among low-efficiency seller cohorts
+- Seller inefficiency strongly predicted delay risk
+- Delays significantly impacted customer satisfaction
+- Operational instability increased quarterly revenue exposure
+
+---
+
+## 🛠️ Tools Used
+
+`MySQL` `Python` `Pandas` `SciPy` `Statsmodels` `Scikit-learn` `Power BI`
+
+### 🔗 Project Link
+
+[View Project](YOUR_SELLER_PROJECT_LINK)
+
+---
+
+# 3️⃣ Revenue Decline & Return Risk Analytics Dashboard
+
+## 📌 Overview
+
+Revenue operations analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, customer retention, and profitability risks.
+
+---
+
+## ⚙️ Workflow
+
+```text
+BigQuery → Python Automation → CSV Exports → Tableau Dashboard
+```
+
+---
+
+## 🔍 Key Highlights
+
+- Built analytical views in BigQuery for operational monitoring
+- Developed automated reporting workflows using Python
+- Created category-level return-risk and margin-risk analysis
+- Performed customer retention and revenue concentration analysis
+- Built executive-style Tableau dashboards
+- Automated end-to-end analytics workflow
+
+---
+
+## 📊 Key Insights
+
+- Revenue declined significantly after peak growth periods
+- Loyal customers contributed ~78% revenue concentration
+- Return-heavy categories reduced profitability margins
+- Operational inefficiencies amplified revenue decline
+
+---
+
+## 🛠️ Tools Used
+
+`BigQuery` `Python` `Pandas` `Matplotlib` `Tableau` `Google Cloud SDK`
+
+### 🔗 Project Link
+
+[View Project](YOUR_REVENUE_PROJECT_LINK)
+
+---
+
+# 🧠 Core Strengths
+
+✅ SQL Feature Engineering  
+✅ Python Automation Pipelines  
+✅ Statistical Analysis & Hypothesis Testing  
+✅ Revenue & Operational Analytics  
+✅ Predictive Modeling & Risk Scoring  
+✅ KPI Reporting & Dashboard Development  
+✅ Data Storytelling & Business Communication  
+
+---
+
+# 📌 Current Focus
+
+Currently deepening expertise in:
+
+- SQL optimization & analytical data modeling
+- Python analytical workflow automation
+- Statistical modeling for business analytics
+- End-to-end operational monitoring systems
+- Business-focused dashboard storytelling
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jyothi-priya-554279247">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Priya200227">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://priya200227.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
+</p>
