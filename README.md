@@ -109,7 +109,6 @@ VS Code
 ---
 
 ## 📊 Focus Areas
-
 <p>
   <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
@@ -123,11 +122,8 @@ VS Code
 
 # 🚀 Featured Projects
 
-
 ## 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
-
 ### Overview
-
 Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
 
 ### Workflow
@@ -167,7 +163,6 @@ https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-s
 ---
 
 ## 2️⃣ Seller Fulfillment Delay & Revenue Impact Intelligence
-
 ### Overview
 
 Operational analytics system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and operational revenue exposure.
@@ -209,7 +204,6 @@ https://github.com/Priya200227/seller-fulfillment-delay-revenue-impact-intellige
 ---
 
 ## 3️⃣ Revenue Decline & Return Risk Analytics Dashboard
-
 ### Overview
 
 Revenue analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, retention behavior, and operational profitability risks.
