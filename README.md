@@ -11,7 +11,6 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 ---
 
 ## 🛠 Tech Stack
-
 ### Languages & Databases
 
 <table>
@@ -121,7 +120,6 @@ VS Code
 ---
 
 # 🚀 Featured Projects
-
 ## 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
 ### Overview
 Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
@@ -135,7 +133,7 @@ MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboa
 ### Key Highlights
 
 - Engineered behavioral features using CTEs and window functions
-- Built logistic regression churn prediction model
+- Built a logistic regression churn prediction model
 - Performed statistical hypothesis testing for retention analysis
 - Quantified monthly recurring revenue exposure
 - Automated churn monitoring and CSV reporting pipeline
