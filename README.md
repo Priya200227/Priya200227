@@ -15,38 +15,51 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 ### Languages & Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square"/>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,bigquery" />
 </p>
+
+---
 
 ### Libraries & Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statsmodels-374151?style=flat-square"/>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn,scipy" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Statsmodels-374151?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
 
 ### BI & Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel" />
+</p>
+
+---
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 Focus Areas
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
   <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
@@ -59,7 +72,6 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 # 🚀 Featured Projects
 
----
 
 ## 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
 
@@ -98,7 +110,7 @@ MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboa
 👉 Replace this link with your actual repository link
 
 ```md
-https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-system
 ```
 
 ---
@@ -140,7 +152,7 @@ MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
 👉 Replace this link with your actual repository link
 
 ```md
-https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+https://github.com/Priya200227/seller-fulfillment-delay-revenue-impact-intelligence
 ```
 
 ---
@@ -182,7 +194,7 @@ BigQuery → Python Automation → CSV Exports → Tableau Dashboard
 👉 Replace this link with your actual repository link
 
 ```md
-https://github.com/Priya200227/YOUR-REPOSITORY-NAME
+https://github.com/Priya200227/revenue-decline-return-optimization-analysis
 ```
 
 ---
