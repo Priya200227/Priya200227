@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%"/>
-</p>
-
 <h1 align="center">Hi, I'm Jyothi Priya 👋</h1>
 
 <h3 align="center">
@@ -82,10 +78,6 @@ I build end-to-end analytics systems focused on churn intelligence, revenue anal
 ---
 
 # 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
-
-<p align="center">
-  <img src="YOUR_CHURN_DASHBOARD_IMAGE_LINK" width="95%"/>
-</p>
 
 ## 📌 Overview
 
