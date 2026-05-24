@@ -84,7 +84,7 @@ Tableau
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/><br>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48"/><br>
 Excel
 </td>
 </tr>
