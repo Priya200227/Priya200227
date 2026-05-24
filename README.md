@@ -2,7 +2,6 @@
 
 <p align="center">
 <b>Data Analyst | SQL • Python • Power BI • Tableau</b><br>
-Revenue • Customer • Operational Analytics
 </p>
 
 <p align="center">
