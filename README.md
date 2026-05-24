@@ -16,11 +16,19 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 ### Languages & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+</p>
+
+<p>
+Python &nbsp;&nbsp;&nbsp;&nbsp;
+MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+PostgreSQL
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,bigquery" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
@@ -28,11 +36,21 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 ### Libraries & Analytics
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn,scipy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45"/>
+</p>
+
+<p>
+Pandas &nbsp;&nbsp;&nbsp;&nbsp;
+NumPy &nbsp;&nbsp;&nbsp;&nbsp;
+Scikit-Learn &nbsp;&nbsp;&nbsp;&nbsp;
+SciPy
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Statsmodels-374151?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-374151?style=flat-square"/>
 </p>
 
 ---
@@ -40,11 +58,17 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 ### BI & Visualization
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="45"/>
+</p>
+
+<p>
+Power BI &nbsp;&nbsp;&nbsp;&nbsp;
+Tableau
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
@@ -52,7 +76,15 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 ### Tools & Workflow
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</p>
+
+<p>
+Git &nbsp;&nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp;&nbsp;
+VS Code
 </p>
 
 ---
@@ -67,7 +99,6 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
   <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
 </p>
-
 ---
 
 # 🚀 Featured Projects
