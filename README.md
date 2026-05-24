@@ -15,78 +15,121 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 ### Languages & Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+Python
+</td>
 
-<p>
-Python &nbsp;&nbsp;&nbsp;&nbsp;
-MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>
 PostgreSQL
-</p>
+</td>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-</p>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="48"/><br>
+BigQuery
+</td>
+</tr>
+</table>
 
 ---
 
 ### Libraries & Analytics
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br>
+Pandas
+</td>
 
-<p>
-Pandas &nbsp;&nbsp;&nbsp;&nbsp;
-NumPy &nbsp;&nbsp;&nbsp;&nbsp;
-Scikit-Learn &nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br>
+NumPy
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br>
+Scikit-Learn
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48"/><br>
 SciPy
-</p>
+</td>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Statsmodels-374151?style=flat-square"/>
-</p>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Statsmodels-374151?style=for-the-badge"/><br>
+Statsmodels
+</td>
+</tr>
+</table>
 
 ---
 
 ### BI & Visualization
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="45"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/><br>
+Power BI
+</td>
 
-<p>
-Power BI &nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/><br>
 Tableau
-</p>
+</td>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=excel" width="48"/><br>
+Excel
+</td>
+</tr>
+</table>
 
 ---
 
 ### Tools & Workflow
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+VS Code
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Focus Areas
 
 <p>
-Git &nbsp;&nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-VS Code
+  <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
 </p>
-
 ---
 
 ## 📊 Focus Areas
