@@ -28,11 +28,6 @@ MySQL
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>
-PostgreSQL
-</td>
-
-<td align="center" width="120">
 <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="48"/><br>
 BigQuery
 </td>
@@ -89,7 +84,7 @@ Tableau
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=excel" width="48"/><br>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/><br>
 Excel
 </td>
 </tr>
