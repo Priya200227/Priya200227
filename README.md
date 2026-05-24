@@ -1,143 +1,99 @@
-# Hi, I'm Jyothi Priya 👋
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%"/>
+</p>
 
-## Data Analyst | SQL • BigQuery • Python • Power BI • Tableau • Statistical Analysis
+<h1 align="center">Hi, I'm Jyothi Priya 👋</h1>
 
-I build end-to-end analytical systems that answer specific business questions — from subscription churn risk and revenue leakage to seller fulfillment delays and operational bottlenecks.
+<h3 align="center">
+Data Analyst | SQL • Python • Power BI • Tableau | Revenue, Customer & Operational Analytics
+</h3>
 
-My work combines SQL engineering, Python automation, statistical reasoning, and predictive modeling to produce quantified business recommendations — not just dashboards.
-
----
-
-## Tech Stack
-
-### Languages
-Python • SQL
-
-### Libraries
-Pandas • NumPy • Matplotlib • Scikit-learn • SciPy • Seaborn
-
-### Visualization & BI
-Power BI • Excel • Tableau
-
-### Database
-MySQL • Google BigQuery
-
-### Analytics Areas
-Operational Analytics • Subscription Intelligence • Revenue Risk Modeling • Statistical Hypothesis Testing • Predictive Modeling • KPI Monitoring
+<p align="center">
+I build end-to-end analytics systems focused on churn intelligence, revenue analytics, operational monitoring, reporting automation, and business intelligence.
+</p>
 
 ---
 
-## Featured Projects
+# 🚀 Tech Stack
+
+## Languages & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge"/>
+</p>
 
 ---
 
-## 1. Subscription Revenue Leakage & Churn Intelligence System
+## Libraries & Analytics
 
-### SQL • Python • Machine Learning • Statistical Analysis • Power BI
-
-Churn prediction and revenue risk system built on KKBox music subscription data. Uses SQL behavioral feature engineering, logistic regression churn scoring, statistical hypothesis testing, and an automated monitoring pipeline to identify high-risk user segments and quantify monthly recurring revenue exposure.
-
-### Project Highlights
-- Engineered behavioral features in MySQL using CTEs and window functions across 4 relational tables
-- Built logistic regression churn scoring model with class imbalance handling (class_weight='balanced')
-- Performed hypothesis testing to validate auto-renew retention impact and revenue segment differences
-- Estimated revenue at risk by churn probability tier — quantified MRR exposure per segment
-- Automated churn monitoring pipeline: scores users, segments risk tiers, exports dated CSV reports
-- Designed 5-page Power BI dashboard covering churn intelligence, cohort decay, and revenue exposure
-
-### Key Insights
-- Churn probability increased sharply after inactivity thresholds in the first 30 days
-- Auto-renew disabled users showed statistically significant higher churn rates
-- High-risk segments (churn probability > 0.7) contributed disproportionate recurring revenue exposure
-- Discount-acquired customers demonstrated weaker long-term retention stability
-- Revenue leakage concentrated heavily among users failing renewal twice or more
-
-### Tools Used
-MySQL • Python • Pandas • Scikit-learn • SciPy • Statsmodels • Power BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-1F2937?style=for-the-badge"/>
+</p>
 
 ---
 
-## 2. Seller Fulfillment Delay & Revenue Impact Intelligence
+## BI & Visualization
 
-### SQL • Python • Statistical Analysis • Regression Modeling • Power BI
-
-Operational intelligence system analyzing 90K+ Brazilian e-commerce orders to identify which seller fulfillment behaviors drive delivery delays and quantify associated revenue exposure. Built on MySQL feature engineering, statistical hypothesis testing, log-transformed regression modeling, and an automated seller risk scoring pipeline.
-
-### Project Highlights
-- Processed 90K+ order records across 8 relational tables using complex SQL joins, CTEs, and window functions
-- Engineered Fulfillment Risk Index — composite seller scoring across delay rate, prep time, review score, and cancellation proxy
-- Performed independent t-test analysis to validate the impact of delivery delays on customer review scores
-- Built log-transformed regression model to predict delivery delay — justified by right-skewed delay distribution
-- Quantified revenue exposure: estimated quarterly revenue at risk from bottom seller cohort
-- Automated seller monitoring pipeline: recalculates risk scores, flags SLA breaches, exports operational reports
-- Designed 3-page Power BI dashboard covering seller intelligence, geographic bottlenecks, and revenue risk
-
-### Key Insights
-- Delivery delays were concentrated among a small subset of high-volume, low-efficiency sellers
-- Late delivery variance showed statistically significant negative impact on customer review scores
-- Seller processing inefficiency was the strongest predictor of fulfillment delay
-- Platform revenue remained heavily dependent on operationally stable top-quartile sellers
-- Bottom 10% seller cohort associated with measurable quarterly revenue risk
-
-### Tools Used
-MySQL • Python • Pandas • SciPy • Statsmodels • Scikit-learn • Power BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
-## 3. Revenue Decline & Return Risk Analytics Dashboard
+# 📊 Analytics Focus Areas
 
-### BigQuery • Python Automation • Tableau
-
-End-to-end revenue operations analytics system built to identify return-risk products, revenue concentration patterns, customer retention behavior, and operational profitability risks using automated cloud analytics workflows.
-
-### Project Highlights
-- Built analytical views in BigQuery for revenue trends, return-risk analysis, retention analysis, and margin-risk evaluation
-- Developed automated Python pipeline for BigQuery query execution, CSV exports, and analytical reporting
-- Created category-level margin risk matrix to identify operationally risky product segments
-- Performed customer retention and revenue concentration analysis to evaluate dependency on loyal customers
-- Built executive-style Tableau dashboard for revenue monitoring, operational risk analysis, and customer intelligence
-- Automated complete workflow: BigQuery → Python → CSV Outputs → Tableau
-
-### Key Insights
-- Revenue declined significantly after peak growth periods
-- Loyal customers contributed ~78% of total revenue concentration
-- Footwear category showed the highest operational return-risk exposure
-- High-return products reduced profitability margins substantially
-- Revenue dependency on top customers created concentration risk
-- Return-heavy categories amplified operational inefficiencies
-
-### Tools Used
-BigQuery • Python • Pandas • Matplotlib • Tableau • Google Cloud SDK
+<p align="left">
+  <img src="https://img.shields.io/badge/Revenue_Analytics-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operational_Analytics-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-1E40AF?style=for-the-badge"/>
+</p>
 
 ---
 
-## Core Strengths
+# 📈 GitHub Stats
 
-- SQL Analysis & Feature Engineering (CTEs, Window Functions, Multi-table Joins)
-- Python Automation & Monitoring Pipelines
-- Statistical Analysis & Hypothesis Testing (Mann-Whitney U, Chi-Square)
-- Predictive Modeling & Risk Scoring (Logistic Regression, Log-transformed Regression)
-- Operational & Subscription Analytics
-- Revenue Impact Quantification
-- Power BI & Tableau Dashboard Development
-- Data Storytelling & Business Communication
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya200227&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## Current Focus
-
-Currently deepening expertise in:
-- SQL query optimization and analytical data modeling
-- End-to-end Python analytical pipelines for operational monitoring
-- Statistical modeling applied to subscription and logistics domains
-- Building analyst-grade projects with quantified business outcomes
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya200227&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Connect With Me
+# 🚀 Featured Projects
 
-### LinkedIn
-[www.linkedin.com/in/jyothi-priya-554279247](https://www.linkedin.com/in/jyothi-priya-554279247)
+---
 
-### GitHub
-[github.com/Priya200227](https://github.com/Priya200227)
+# 1️⃣ Subscription Revenue Leakage & Churn Intelligence System
+
+<p align="center">
+  <img src="YOUR_CHURN_DASHBOARD_IMAGE_LINK" width="95%"/>
+</p>
+
+## 📌 Overview
+
+End-to-end churn prediction and revenue-risk intelligence system built using SQL, Python, machine learning, statistical analysis, and Power BI.
+
+---
+
+## ⚙️ Workflow
+
+```text
+MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
