@@ -120,7 +120,7 @@ VS Code
 ---
 
 # Featured Projects
-## Subscription Revenue Leakage & Churn Intelligence System
+<h2>Subscription Revenue Leakage & Churn Intelligence System</h2>h2?
 ### Overview
 Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
 
