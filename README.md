@@ -156,7 +156,7 @@ https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-s
 
 ---
 
-## Seller Fulfillment Delay & Revenue Impact Intelligence
+## Seller Fulfillment Delay & Revenue Impact Intelligence System
 ### Overview
 
 Operational analytics system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and operational revenue exposure.
