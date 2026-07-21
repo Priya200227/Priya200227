@@ -72,17 +72,14 @@ Statsmodels
 Power BI
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/><br>
-Tableau
-</td>
-
+<!-- 
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48"/><br>
 Excel
 </td>
 </tr>
 </table>
+-->
 
 ### Tools & Workflow
 
