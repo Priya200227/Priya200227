@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jyothi Priya 👋</h1>
 
 <p align="center">
-<b>Data Analyst | SQL • Python • Power BI • Learning LLMs, RAG & AI Engineering</b><br>
+<b>Data Analyst | SQL • Python • Power BI | Learning LLMs, RAG & AI Engineering</b><br>
 </p>
 
 <p align="center">
