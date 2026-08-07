@@ -9,97 +9,23 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 </p>
 
 ---
-
 ## 🛠 Tech Stack
-### Languages & Databases
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
-Python
-</td>
+<p align="center">
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-MySQL
-</td>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,gcp,docker" />
 
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="48"/><br>
-BigQuery
-</td>
-</tr>
-</table>
+<br><br>
 
-### Libraries & Analytics
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery"/>
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br>
-Pandas
-</td>
+</p>
 
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br>
-NumPy
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br>
-Scikit-Learn
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48"/><br>
-SciPy
-</td>
-
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Statsmodels-374151?style=for-the-badge"/><br>
-Statsmodels
-</td>
-</tr>
-</table>
-
-### BI & Visualization
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/><br>
-Power BI
-</td>
- 
-<td align="center" width="120">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48"/><br>
-Excel
-</td>
-</tr>
-</table>
-
-
-### Tools & Workflow
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-Git
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
-GitHub
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-VS Code
-</td>
-</tr>
-</table>
 
 ---
 
