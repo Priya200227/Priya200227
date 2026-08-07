@@ -1,51 +1,253 @@
+<h1 align="center">Hi, I'm Jyothi Priya 👋</h1>
+
+<p align="center">
+<b>Data Analyst | SQL • Python • Power BI | Learning Big Data, LLMs, RAG & AI Engineering</b><br>
+</p>
+
+<p align="center">
+I build business-focused analytics solutions using SQL, Python, statistical analysis, automation, and BI dashboards to solve revenue, customer, and operational problems.
+</p>
+
+---
+
+## 🛠 Tech Stack
+### Languages & Databases
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+Python
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="48"/><br>
+BigQuery
+</td>
+</tr>
+</table>
+
+### Libraries & Analytics
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br>
+Pandas
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br>
+NumPy
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br>
+Scikit-Learn
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48"/><br>
+SciPy
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Statsmodels-374151?style=for-the-badge"/><br>
+Statsmodels
+</td>
+</tr>
+</table>
+
+### BI & Visualization
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/><br>
+Power BI
+</td>
+ 
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48"/><br>
+Excel
+</td>
+</tr>
+</table>
 
 
-Readme · MD
-<div align="center">
-Jyothi Priya
-Data Analyst — SQL · Python · Power BI · Tableau
-</div> <br/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priya200227/Priya200227/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priya200227/Priya200227/output/github-contribution-grid-snake.svg"> <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Priya200227/Priya200227/output/github-contribution-grid-snake.svg"> </picture>
-<sub>↑ regenerated daily by GitHub Actions from live contribution activity</sub>
+### Tools & Workflow
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+Git
+</td>
 
-Featured Work
-<table> <tr> <td width="50%" valign="top">
-Churn Intelligence
-Predicted subscription churn (ROC-AUC 0.93, Recall 0.86) and quantified Rs.96M+ revenue at risk, segmented in a 3-page Power BI dashboard.
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+GitHub
+</td>
 
-MySQL Python Scikit-learn Power BI
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+VS Code
+</td>
+</tr>
+</table>
 
-View Repo -->
+---
 
-</td> <td width="50%" valign="top">
-Fulfillment Delay Intelligence
-Analyzed 90K+ orders, built a Fulfillment Risk Index. Confirmed delay hurts satisfaction (t=85.15, p<0.0001) - 4.29 vs 2.60 review score.
+## 📊 Focus Areas
+<p>
+  <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
+</p>
 
-MySQL Python SciPy Power BI
+---
 
-View Repo -->
+# Featured Projects
+## Subscription Revenue Leakage & Churn Intelligence System
+### Overview
 
-</td> </tr> <tr> <td width="50%" valign="top">
-Revenue Decline & Return Risk
-RFM-segmented 20K+ transactions in BigQuery - 78% of revenue from loyal customers; Footwear at 26% return risk. Live on Tableau Public.
+Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
 
-BigQuery Python Tableau
+```text
+MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
+```
 
-View Repo -->
+### Key Highlights
 
-</td> <td width="50%" valign="top">
-Currently Building
-Apache Spark, Databricks, modern data stack fundamentals - extending from BI reporting toward analytics engineering.
+- Engineered behavioral features using CTEs and window functions
+- Built a logistic regression churn prediction model
+- Performed statistical hypothesis testing for retention analysis
+- Quantified monthly recurring revenue exposure
+- Automated churn monitoring and CSV reporting pipeline
+- Developed executive-level Power BI dashboards
 
-</td> </tr> </table> <br/>
-Live Metrics
-<div align="center"> <img src="https://raw.githubusercontent.com/Priya200227/Priya200227/master/metrics.svg" width="100%"/> </div>
-<sub>↑ regenerated daily — languages, activity, and repo stats pulled live, not a static badge</sub>
+### Key Insights
 
-<br/> <div align="center">
-Show Image Show Image Show Image
+- Churn probability increased sharply after inactivity periods
+- Auto-renew disabled users showed significantly higher churn risk
+- High-risk users contributed disproportionate revenue exposure
+- Discount-acquired customers showed weaker long-term retention
 
-</div>
+### Tools Used
 
+`MySQL` `Python` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Power BI`
 
+### Project Repository
+```md
+https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-system
+```
+
+---
+
+## Seller Fulfillment Delay & Revenue Impact Intelligence System
+### Overview
+
+Operational analytics system analyzing 90K+ e-commerce orders to identify seller behaviors driving delivery delays and operational revenue exposure.
+
+```text
+MySQL → Python → Statistical Testing → Risk Scoring → Power BI Dashboard
+```
+
+### Key Highlights
+
+- Processed 90K+ records across multiple relational tables
+- Built Fulfillment Risk Index scoring system
+- Performed t-test analysis on delivery delays vs review scores
+- Built a regression model for delay prediction
+- Automated operational monitoring workflows
+- Developed operational intelligence dashboards
+
+### Key Insights
+
+- Delivery delays concentrated among low-efficiency seller cohorts
+- Seller inefficiency strongly predicted delay risk
+- Delivery delays negatively impacted customer satisfaction
+- Operational instability increased revenue exposure
+
+### Tools Used
+
+`MySQL` `Python` `Pandas` `SciPy` `Statsmodels` `Scikit-learn` `Power BI`
+
+### Project Repository
+```md
+https://github.com/Priya200227/seller-fulfillment-delay-revenue-impact-intelligence
+```
+
+---
+
+## Revenue Decline & Return Risk Analytics Dashboard
+### Overview
+
+Revenue analytics system built using BigQuery, Python automation, and Tableau to analyze return-risk exposure, revenue concentration, retention behavior, and operational profitability risks.
+
+```text
+BigQuery → Python Automation → CSV Exports → Tableau Dashboard
+```
+
+### Key Highlights
+
+- Built analytical views in BigQuery for operational monitoring
+- Developed automated reporting workflows using Python
+- Created category-level return-risk and margin-risk analysis
+- Performed customer retention and revenue concentration analysis
+- Built executive-style Tableau dashboards
+- Automated end-to-end analytics workflow
+
+### Key Insights
+
+- Revenue declined significantly after peak growth periods
+- Loyal customers contributed ~78% revenue concentration
+- Return-heavy categories reduced profitability margins
+- Operational inefficiencies amplified revenue decline
+
+### Tools Used
+
+`BigQuery` `Python` `Pandas` `Matplotlib` `Tableau` `Google Cloud SDK`
+
+### Project Repository
+```md
+https://github.com/Priya200227/revenue-decline-return-optimization-analysis
+```
+
+---
+
+## Core Strengths
+
+- SQL Feature Engineering
+- Python Automation Pipelines
+- Statistical Analysis & Hypothesis Testing
+- Revenue & Operational Analytics
+- Predictive Modeling & Risk Scoring
+- KPI Reporting & Dashboard Development
+- Business-Focused Data Storytelling
+  
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jyothi-priya-554279247">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Priya200227">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://priya200227.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square"/>
+  </a>
+</p>
