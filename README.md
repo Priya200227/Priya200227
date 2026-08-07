@@ -13,7 +13,7 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=SQL+Developer;Python+for+Analytics;Power+BI+Developer;Learning+Spark+%26+Databricks;Building+Analytics+Engineering+Projects"/>
 
 </p>
----
+
 
 ## 🛠 Tech Stack
 
