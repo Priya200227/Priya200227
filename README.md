@@ -35,7 +35,7 @@ Predict customer churn and quantify recurring revenue risk using machine learnin
 
 #### Tech Stack
 
-MySQL Python Scikit-Learn Power BI
+`MySQL` `Python` `Scikit-Learn` `Power BI`
 
 #### Highlights
 
