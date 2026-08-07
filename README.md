@@ -7,7 +7,6 @@
 <p align="center">
 I build business-focused analytics solutions using SQL, Python, statistical analysis, automation, and BI dashboards to solve revenue, customer, and operational problems.
 </p>
----
 
 <p align="center">
 
