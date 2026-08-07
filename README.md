@@ -33,11 +33,11 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 Predict customer churn and quantify recurring revenue risk using machine learning and business intelligence.
 
-#### Tech Stack
+### Tech Stack
 
 `MySQL` `Python` `Scikit-Learn` `Power BI`
 
-#### Highlights
+### Highlights
 
 Customer churn prediction
 Revenue risk scoring
