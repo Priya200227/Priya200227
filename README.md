@@ -8,6 +8,11 @@
 I build business-focused analytics solutions using SQL, Python, statistical analysis, automation, and BI dashboards to solve revenue, customer, and operational problems.
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=SQL+Developer;Python+for+Analytics;Power+BI+Developer;Learning+Spark+%26+Databricks;Building+Analytics+Engineering+Projects"/>
+
+</p>
 ---
 ## 🛠 Tech Stack
 
@@ -121,15 +126,15 @@ https://github.com/Priya200227/revenue-decline-return-optimization-analysis
 
 ---
 
-## Core Strengths
+## Core Focus
 
-- SQL Feature Engineering
-- Python Automation Pipelines
-- Statistical Analysis & Hypothesis Testing
-- Revenue & Operational Analytics
-- Predictive Modeling & Risk Scoring
-- KPI Reporting & Dashboard Development
-- Business-Focused Data Storytelling
+- Analytics Engineering
+- Business Intelligence
+- Revenue Analytics
+- SQL Automation
+- Predictive Analytics
+- Apache Spark
+- Databricks
   
 ---
 
