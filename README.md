@@ -29,24 +29,25 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 ---
 # Featured Projects
-📈 Subscription Revenue Leakage & Churn Intelligence
+## 📈 Subscription Revenue Leakage & Churn Intelligence
 
 Predict customer churn and quantify recurring revenue risk using machine learning and business intelligence.
 
-Tech Stack
+#### Tech Stack
 
 MySQL Python Scikit-Learn Power BI
 
-Highlights
+#### Highlights
 
 Customer churn prediction
 Revenue risk scoring
 Statistical analysis
 Executive dashboard
 
-🔗 Repository:
+### 🔗 Project Repository
+```md
 https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-system
----
+```
 
 ## Seller Fulfillment Delay & Revenue Impact Intelligence System
 ### Overview
