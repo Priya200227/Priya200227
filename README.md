@@ -21,20 +21,16 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,gcp,git,github,vscode,docker"/>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,gcp" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery"/>
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/>
 </p>
 
 ---
