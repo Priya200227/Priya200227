@@ -169,3 +169,245 @@ Core Philosophy:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer"/>
 
 </div>
+---
+
+# 🛠 Analytics Engineering Toolkit
+
+<div align="center">
+
+### Every business decision starts with data. Here's how I transform it into insights.
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="16%">
+
+### 🗄 Data
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+
+MySQL<br>
+PostgreSQL<br>
+BigQuery
+
+</td>
+
+<td align="center" width="16%">
+
+### 🐍 Analytics
+
+<img src="https://skillicons.dev/icons?i=python" /><br>
+
+Python<br>
+Pandas<br>
+NumPy<br>
+SciPy
+
+</td>
+
+<td align="center" width="16%">
+
+### 📈 BI
+
+<img src="https://skillicons.dev/icons?i=tableau" /><br>
+
+Power BI<br>
+Tableau<br>
+Excel
+
+</td>
+
+<td align="center" width="16%">
+
+### ☁ Cloud
+
+<img src="https://skillicons.dev/icons?i=gcp" /><br>
+
+Google Cloud<br>
+BigQuery<br>
+Cloud SDK
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚙ Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+
+Git<br>
+GitHub<br>
+VS Code<br>
+Jupyter
+
+</td>
+
+<td align="center" width="16%">
+
+### 📚 Learning
+
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+
+Spark<br>
+Databricks<br>
+Docker<br>
+Delta Lake
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Analytics Workflow
+
+<div align="center">
+
+```text
+               Raw Business Data
+                       │
+                       ▼
+              SQL Data Extraction
+                       │
+                       ▼
+             Python Data Cleaning
+                       │
+                       ▼
+        Statistical Analysis & ML
+                       │
+                       ▼
+        KPI Engineering & Automation
+                       │
+                       ▼
+        Executive Dashboards (Power BI)
+                       │
+                       ▼
+          Business Decision Making
+```
+
+</div>
+
+---
+
+# 🧩 My Analytics Stack
+
+<div align="center">
+
+| Stage | Technologies |
+|:------|:-------------|
+| 📥 Data Collection | SQL • BigQuery • CSV • Excel |
+| 🧹 Data Cleaning | Pandas • NumPy |
+| 📊 Data Analysis | SQL • Python • Statistics |
+| 📈 Visualization | Power BI • Tableau |
+| 🤖 Automation | Python • Scheduled Reports |
+| ☁ Cloud | Google Cloud • BigQuery |
+| 📦 Version Control | Git • GitHub |
+
+</div>
+
+---
+
+# 🗺 Learning Roadmap
+
+> My goal isn't to learn every tool.
+>
+> My goal is to become an Analytics Engineer capable of building production-ready data solutions.
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Excel
+██████████████████████████████
+
+✅ SQL
+██████████████████████████████
+
+✅ Power BI
+████████████████████████████
+
+✅ Python
+██████████████████████████
+
+✅ Statistics
+███████████████████████
+
+🟨 BigQuery
+███████████████████
+
+🟨 Apache Spark
+██████████████
+
+🟨 Databricks
+████████████
+
+🟨 Delta Lake
+██████████
+
+⬜ Airflow
+██████
+
+⬜ dbt
+█████
+
+⬜ Snowflake
+████
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 🌱 Currently Learning | 🎯 Building | 🚀 Long-Term Goal |
+|:----------------------|:------------|:------------------|
+| Apache Spark | End-to-End Analytics Systems | Analytics Engineer |
+| Databricks | SQL + Python Automation | Data Platform Development |
+| Delta Lake | Business Intelligence Projects | AI-Powered Analytics |
+| Cloud Analytics | Predictive Analytics | Modern Data Stack |
+
+</div>
+
+---
+
+# 💼 Business Domains I've Worked On
+
+<div align="center">
+
+| 📈 Revenue | 🛒 E-Commerce | 👥 Customer | 🚚 Operations |
+|:-----------|:--------------|:------------|:--------------|
+| Revenue Leakage | Seller Analytics | Churn Prediction | Fulfillment Delays |
+| Profitability | Return Analysis | Retention | KPI Monitoring |
+| Growth Trends | Sales Intelligence | Customer Behavior | Operational Efficiency |
+
+</div>
+
+---
+
+# ⚡ Analytics Principles
+
+> ### I don't measure success by the number of dashboards I build.
+
+I measure success by whether my analysis helps answer questions like:
+
+- 📉 Why is revenue dropping?
+- 💰 Where are we losing money?
+- 👥 Which customers are likely to churn?
+- 🚚 Which operational bottlenecks impact business performance?
+- 📊 Which KPIs deserve executive attention?
+- 🤖 Which reporting processes can be automated?
+- 📈 How can data improve business decisions?
+
+---
+
+<div align="center">
+
+### 🧠 Turning Raw Data → Actionable Insights → Business Impact
+
+</div>
+
+---
