@@ -28,54 +28,24 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 
 ---
-
-## 📊 Focus Areas
-<p>
-  <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
-</p>
-
----
-
 # Featured Projects
-## Subscription Revenue Leakage & Churn Intelligence System
-### Overview
+📈 Subscription Revenue Leakage & Churn Intelligence
 
-Built an end-to-end churn prediction and revenue-risk intelligence system using SQL, Python, machine learning, statistical analysis, and Power BI.
+Predict customer churn and quantify recurring revenue risk using machine learning and business intelligence.
 
-```text
-MySQL → Python → Statistical Analysis → Churn Scoring → Power BI Dashboard
-```
+Tech Stack
 
-### Key Highlights
+MySQL Python Scikit-Learn Power BI
 
-- Engineered behavioral features using CTEs and window functions
-- Built a logistic regression churn prediction model
-- Performed statistical hypothesis testing for retention analysis
-- Quantified monthly recurring revenue exposure
-- Automated churn monitoring and CSV reporting pipeline
-- Developed executive-level Power BI dashboards
+Highlights
 
-### Key Insights
+Customer churn prediction
+Revenue risk scoring
+Statistical analysis
+Executive dashboard
 
-- Churn probability increased sharply after inactivity periods
-- Auto-renew disabled users showed significantly higher churn risk
-- High-risk users contributed disproportionate revenue exposure
-- Discount-acquired customers showed weaker long-term retention
-
-### Tools Used
-
-`MySQL` `Python` `Pandas` `Scikit-learn` `SciPy` `Statsmodels` `Power BI`
-
-### Project Repository
-```md
+🔗 Repository:
 https://github.com/Priya200227/subscription-revenue-leakage-churn-intelligence-system
-```
-
 ---
 
 ## Seller Fulfillment Delay & Revenue Impact Intelligence System
