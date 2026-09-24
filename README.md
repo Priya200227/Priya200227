@@ -102,19 +102,6 @@ VS Code
 </table>
 
 ---
-
-## 📊 Focus Areas
-<p>
-  <img src="https://img.shields.io/badge/Revenue_Analytics-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Customer_Analytics-1D4ED8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Operational_Analytics-0F172A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Business_Intelligence-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-1E40AF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-111827?style=flat-square"/>
-</p>
-
----
-
 # Featured Projects
 ## Subscription Revenue Leakage & Churn Intelligence System
 ### Overview
