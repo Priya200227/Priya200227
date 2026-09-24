@@ -15,14 +15,14 @@ I build business-focused analytics solutions using SQL, Python, statistical anal
 
 <table>
 <tr>
+ <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+MySQL
+</td>
+ 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="48"/><br>
 Python
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-MySQL
 </td>
 
 <td align="center" width="120">
