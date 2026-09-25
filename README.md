@@ -230,10 +230,6 @@ https://github.com/Priya200227/revenue-decline-return-optimization-analysis
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Priya200227">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://priya200227.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square"/>
   </a>
